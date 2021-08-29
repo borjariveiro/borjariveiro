@@ -97,6 +97,13 @@
       </td>
       <td  width="300" align="center">
           <img
+          src="images/github.svg"
+          alt="GitHub"
+          width="65"
+          height="65"/>
+      </td>
+      <td  width="300" align="center">
+          <img
           src="images/visual-studio-code.svg"
           alt="Visual Studio Code"
           width="65"
