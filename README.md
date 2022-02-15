@@ -66,8 +66,8 @@
     <tr height="150">
       <td width="300" align="center">
         <img
-          src="images/babeljs.svg"
-          alt="Babel"
+          src="images/firebase.svg"
+          alt="Firebase"
           width="65"
           height="65"/>
       </td>
