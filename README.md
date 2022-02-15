@@ -7,8 +7,7 @@
 
 <h3 align="left">Sobre mí:</h3>
 
-<p align="left">Soy Borja Riveiro, estudiante de desarrollo web en busca de mi primer empleo en el sector IT. Los últimos 2 años los he dedicado a formarme cursando el grado superior de desarrollo de aplicaciones web y al mismo tiempo de forma autodidacta.<br/>
-Actualmente mejorando cada día en JavaScript y React y con interés en aprender TypeScript, Testing y Clean Code.</p>
+<p align="left">Desarrollador web apasionado de las nuevas tecnologías, en busca de un proyecto en el que pueda contribuir y aportar soluciones con todo lo que he aprendido este tiempo mientras sigo aprendiendo y mejorando mis habilidades.<br/> Trabajando actualmente en mejorar mis conocimientos en JavaScript, frameworks como React, Vue o Angular y en Testing, TypeScript y Clean Code.</p>
 
 <a href="https://drive.google.com/file/d/1864k5-_OBtEZQkqouClkoEiOHMCjXOes/view?usp=sharing" target="_blank">Ver curriculum</a>
 <br/>
@@ -58,8 +57,8 @@ Actualmente mejorando cada día en JavaScript y React y con interés en aprender
       </td>
       <td width="300" align="center">
         <img
-          src="images/gulp.svg"
-          alt="Gulp"
+          src="images/vue.svg"
+          alt="Vue"
           width="65"
           height="65"/>
       </td>
