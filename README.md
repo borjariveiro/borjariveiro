@@ -3,11 +3,7 @@
     alt="banner"
   />
 <h1 align="center">Hola 👋, soy Borja Riveiro</h1>
-<h3 align="center">Junior Front End Developer</h3>
-
-<h3 align="left">Sobre mí:</h3>
-
-<p align="left">Desarrollador web apasionado de las nuevas tecnologías, en busca de un proyecto en el que pueda contribuir y aportar soluciones con todo lo que he aprendido este tiempo mientras sigo aprendiendo y mejorando mis habilidades.<br/> Trabajando actualmente en mejorar mis conocimientos en JavaScript, frameworks como React, Vue o Angular y en Testing, TypeScript y Clean Code.</p>
+<h3 align="center">FrontEnd Developer</h3>
 
 <a href="https://drive.google.com/file/d/1864k5-_OBtEZQkqouClkoEiOHMCjXOes/view?usp=sharing" target="_blank">Ver curriculum</a>
 <br/>
